@@ -1,0 +1,1 @@
+This repository contains a JavaScript code example that demonstrates a common error: attempting to access the 'length' property of an undefined variable.  The bug.js file contains the erroneous code, which throws a TypeError. The bugSolution.js file shows how to fix this error by explicitly checking for undefined using a nullish coalescing operator or typeof operator.
